@@ -9,3 +9,4 @@
 
 課題：
 <br>dev containersの中から、gitを使いたい
+<br>git clone して使おうとしたら、動かない

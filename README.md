@@ -6,7 +6,6 @@
 [VSCode+DockerでFastAPIの開発環境を作るまで](https://zenn.dev/satonopan/articles/a3eb04bc94a89d#fn-2bb0-2)
 <br>上記の記事を参考にDev Containersの設定をした
 
-git cloneして使うときは、dbディレクトリにdataディレクトリを作成する
 
 課題：
 <br>dev containersの中から、gitを使いたい

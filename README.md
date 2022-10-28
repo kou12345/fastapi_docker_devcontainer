@@ -7,3 +7,6 @@
 <br>上記の記事を参考にDev Containersの設定をした
 
 git cloneして使うときは、dbディレクトリにdataディレクトリを作成する
+
+課題：
+<br>dev containersの中から、gitを使いたい

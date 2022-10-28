@@ -1,0 +1,6 @@
+uvicorn
+fastapi
+mysqlclient
+sqlalchemy
+flake8
+black
